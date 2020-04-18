@@ -47,7 +47,9 @@ def jalan(z):
 
 
 #### LOGO ####
-logo = """\033]01;31\]WELCOME"""
+logo = """
+\033]01;31\]WELCOME
+"""
 
 def tik():
 	titik = ['.   ','..  ','... ']
